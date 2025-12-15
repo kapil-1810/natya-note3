@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "groq-sdk": "^0.37.0",
+    "multer": "^2.0.2",
+    "node-fetch": "^2.6.9"
+  }
+}
